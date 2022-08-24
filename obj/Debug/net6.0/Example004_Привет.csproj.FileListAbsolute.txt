@@ -1,0 +1,15 @@
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\bin\Debug\net6.0\Example004_Привет.exe
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\bin\Debug\net6.0\Example004_Привет.deps.json
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\bin\Debug\net6.0\Example004_Привет.runtimeconfig.json
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\bin\Debug\net6.0\Example004_Привет.dll
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\bin\Debug\net6.0\Example004_Привет.pdb
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\obj\Debug\net6.0\Example004_Привет.csproj.AssemblyReference.cache
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\obj\Debug\net6.0\Example004_Привет.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\obj\Debug\net6.0\Example004_Привет.AssemblyInfoInputs.cache
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\obj\Debug\net6.0\Example004_Привет.AssemblyInfo.cs
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\obj\Debug\net6.0\Example004_Привет.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\obj\Debug\net6.0\Example004_Привет.dll
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\obj\Debug\net6.0\refint\Example004_Привет.dll
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\obj\Debug\net6.0\Example004_Привет.pdb
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\obj\Debug\net6.0\Example004_Привет.genruntimeconfig.cache
+C:\Users\Uzer\Desktop\Examples\Example004_Привет\obj\Debug\net6.0\ref\Example004_Привет.dll
